@@ -1,8 +1,66 @@
 [
   {
-    "title": "Film 2",
-    "director": "Režiser 1",
-    "genre": "Žanr 1",
-    "id": "e487d784-45aa-4b89-8034-253f7e7e6266"
+    "naziv": "DZejlan",
+    "ocena": "Test3i2109",
+    "reziser": "dmwadwa",
+    "cena": "dwoijadoiwa",
+    "is3D": true,
+    "id": "758d4781-8d18-492d-a9dd-725619e7a0fb"
+  },
+  {
+    "naziv": "film 3",
+    "ocena": "213213",
+    "reziser": "Marko",
+    "cena": "21321",
+    "is3D": true,
+    "id": "bf4033ae-58e3-4720-83af-908482dccccd"
+  },
+  {
+    "naziv": "dwadwa",
+    "ocena": "dada",
+    "reziser": "dada",
+    "cena": "dada",
+    "is3D": false,
+    "id": "0dd7edc7-7761-40d8-813d-7b53e5b0c73d"
+  },
+  {
+    "naziv": "da",
+    "ocena": "da",
+    "reziser": "da",
+    "cena": "da",
+    "is3D": true,
+    "id": "daa22aa9-d7fa-485a-bb33-916bf5e60917"
+  },
+  {
+    "naziv": "dwadaw",
+    "ocena": "dwadaw",
+    "reziser": "dwadwa",
+    "cena": "2312",
+    "is3D": false,
+    "id": "2cabab0e-6690-49a1-ac53-32a2d1e3f674"
+  },
+  {
+    "naziv": "Testic",
+    "ocena": "21321",
+    "reziser": "dwadwa",
+    "cena": "2132131",
+    "is3D": false,
+    "id": "6b1c4e0f-78fd-43ad-926a-0064f85ed18c"
+  },
+  {
+    "naziv": "Test tabele",
+    "ocena": "tabela",
+    "reziser": "tabela",
+    "cena": "23121",
+    "is3D": true,
+    "id": "b175ae1a-e261-494c-a8ab-c26489e17474"
+  },
+  {
+    "naziv": "dwadwaDzoni jebe",
+    "ocena": "999",
+    "reziser": "voi",
+    "cena": "21321321",
+    "is3D": false,
+    "id": "90e18022-33aa-4c75-998d-11f7ecf1b1cb"
   }
 ]

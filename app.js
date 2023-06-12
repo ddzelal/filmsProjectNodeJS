@@ -2,9 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const express = require('express');
 const app = express();
-const port = 3000;
+const cors = require('cors');
+const port = 4000;
 const { v4: uuidv4 } = require('uuid');
 app.use(express.json());
+app.use(cors());
 
 const filmsFilePath = path.join(__dirname, 'data', 'films.json');
 const salasFilePath = path.join(__dirname, 'data', 'salas.json');
